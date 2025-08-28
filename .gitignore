@@ -1,0 +1,14 @@
+# Create .gitignore file
+echo "# Visual Studio files
+.vs/
+*.user
+*.suo
+Debug/
+Release/
+x64/
+*.log
+*.tlog
+*.pdb
+*.ilk
+*.obj
+*.exe" > .gitignore
