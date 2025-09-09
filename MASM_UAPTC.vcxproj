@@ -125,10 +125,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <MASM Include="hw2_hello_world.asm" />
-    <MASM Include="main_test.asm">
+    <MASM Include="hw1_variables.asm">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </MASM>
+    <MASM Include="hw2_hello_world.asm">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </MASM>
+    <MASM Include="test2.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

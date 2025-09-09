@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="main_test.asm">
+    <MASM Include="hw1_variables.asm">
       <Filter>Source Files</Filter>
     </MASM>
     <MASM Include="hw2_hello_world.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="test2.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
