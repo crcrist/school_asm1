@@ -11,7 +11,7 @@ grade	byte	? ; char grade
 x		byte	? ; char x
 y		byte	? ; char y
 amount	sdword	? ; int amount
-count	sdword	? ; int count
+count	sdword	45 ; int count
 number	sdword	? ; int number
 
 
