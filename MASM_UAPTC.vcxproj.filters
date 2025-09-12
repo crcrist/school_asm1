@@ -21,7 +21,16 @@
     <MASM Include="hw2_hello_world.asm">
       <Filter>Source Files</Filter>
     </MASM>
-    <MASM Include="test2.asm">
+    <MASM Include="llm.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="hw2_input_output.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="hw2_io2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="hw2_io3.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
