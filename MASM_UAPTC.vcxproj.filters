@@ -33,8 +33,25 @@
     <MASM Include="hw2_io3.asm">
       <Filter>Source Files</Filter>
     </MASM>
+    <MASM Include="hw2_io5.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="hw2_io6.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="hw2_io7.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hw2_io6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hw2_io7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
