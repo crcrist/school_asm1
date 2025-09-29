@@ -13,45 +13,108 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ch1">
+      <UniqueIdentifier>{dd912ea6-69c6-4b46-a173-1b141aa73b37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ch2">
+      <UniqueIdentifier>{094984e6-d238-448e-b4c9-ab0131692cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ch3">
+      <UniqueIdentifier>{a8265d6e-4ede-4aaa-bf96-e0532aebdc38}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="hw1_variables.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch1_hw1_hello_world.asm">
+      <Filter>ch1</Filter>
     </MASM>
-    <MASM Include="hw2_hello_world.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch1_hw1_variables.asm">
+      <Filter>ch1</Filter>
     </MASM>
-    <MASM Include="llm.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2__hw1_input_output.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_input_output.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2_hw2_io2.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_io2.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2_hw2_io3.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_io3.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2_hw2_io5.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_io5.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2_hw2_io6.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_io6.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch2_hw2_io7.asm">
+      <Filter>ch2</Filter>
     </MASM>
-    <MASM Include="hw2_io7.asm">
-      <Filter>Source Files</Filter>
+    <MASM Include="ch3_hw1_math5_q4e.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q4d.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math_q2d.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math2.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math3.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math4.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q1.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q2a.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q2b.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q2c.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q3a.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q3b.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q3c.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q3d.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q3e.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q4a.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q4b.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q4c.asm">
+      <Filter>ch3</Filter>
     </MASM>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hw2_io6.c">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ch2_hw2_io6.c">
+      <Filter>ch2</Filter>
     </ClCompile>
-    <ClCompile Include="hw2_io7.c">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="ch2_hw2_io7.c">
+      <Filter>ch2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
