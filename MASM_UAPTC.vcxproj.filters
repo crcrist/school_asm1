@@ -105,6 +105,15 @@
     <MASM Include="ch3_hw1_math5_q4c.asm">
       <Filter>ch3</Filter>
     </MASM>
+    <MASM Include="ch3_hw1_math5_q5.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q6.asm">
+      <Filter>ch3</Filter>
+    </MASM>
+    <MASM Include="ch3_hw1_math5_q7.asm">
+      <Filter>ch3</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
