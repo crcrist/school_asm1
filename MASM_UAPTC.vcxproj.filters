@@ -25,6 +25,9 @@
     <Filter Include="ch4">
       <UniqueIdentifier>{6d8e2c02-10b6-4098-acef-a2474b4381fe}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch5">
+      <UniqueIdentifier>{94f894c8-4ddb-4bf8-857e-3ef1a4dc3475}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <MASM Include="ch1_hw1_hello_world.asm">
@@ -152,6 +155,33 @@
     </MASM>
     <MASM Include="ch4_hw2_q4a.asm">
       <Filter>ch4</Filter>
+    </MASM>
+    <MASM Include="ch5_lecture1.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_lecture1b.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_lecture1c.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_lecture1d.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw1a.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw1b.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch6_hw1c.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw1d.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw2.asm">
+      <Filter>ch5</Filter>
     </MASM>
   </ItemGroup>
   <ItemGroup>
