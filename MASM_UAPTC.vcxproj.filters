@@ -183,6 +183,21 @@
     <MASM Include="ch5_hw2.asm">
       <Filter>ch5</Filter>
     </MASM>
+    <MASM Include="ch5_hw3.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw4.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw5a.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw5b.asm">
+      <Filter>ch5</Filter>
+    </MASM>
+    <MASM Include="ch5_hw5c.asm">
+      <Filter>ch5</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
@@ -193,6 +208,9 @@
     </ClCompile>
     <ClCompile Include="ch2_hw2_io7.c">
       <Filter>ch2</Filter>
+    </ClCompile>
+    <ClCompile Include="ch5_hw4.c">
+      <Filter>ch5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
