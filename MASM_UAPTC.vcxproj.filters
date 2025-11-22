@@ -28,6 +28,9 @@
     <Filter Include="ch5">
       <UniqueIdentifier>{94f894c8-4ddb-4bf8-857e-3ef1a4dc3475}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ch8">
+      <UniqueIdentifier>{c08fcc90-5c74-485f-aac7-50bc85ee64b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <MASM Include="ch1_hw1_hello_world.asm">
@@ -198,6 +201,12 @@
     <MASM Include="ch5_hw5c.asm">
       <Filter>ch5</Filter>
     </MASM>
+    <MASM Include="ch8_hwA.asm">
+      <Filter>ch8</Filter>
+    </MASM>
+    <MASM Include="ch8_hw4A.asm">
+      <Filter>ch8</Filter>
+    </MASM>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
@@ -211,6 +220,9 @@
     </ClCompile>
     <ClCompile Include="ch5_hw4.c">
       <Filter>ch5</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8_hw5.c">
+      <Filter>ch8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
